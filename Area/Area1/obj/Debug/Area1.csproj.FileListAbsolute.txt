@@ -1,0 +1,10 @@
+C:\Users\singhsen\source\repos\Area\Area1\bin\Debug\Area1.exe.config
+C:\Users\singhsen\source\repos\Area\Area1\bin\Debug\Area1.exe
+C:\Users\singhsen\source\repos\Area\Area1\bin\Debug\Area1.pdb
+C:\Users\singhsen\source\repos\Area\Area1\bin\Debug\log4net.dll
+C:\Users\singhsen\source\repos\Area\Area1\bin\Debug\log4net.xml
+C:\Users\singhsen\source\repos\Area\Area1\obj\Debug\Area1.csproj.AssemblyReference.cache
+C:\Users\singhsen\source\repos\Area\Area1\obj\Debug\Area1.csproj.CoreCompileInputs.cache
+C:\Users\singhsen\source\repos\Area\Area1\obj\Debug\Area1.csproj.CopyComplete
+C:\Users\singhsen\source\repos\Area\Area1\obj\Debug\Area1.exe
+C:\Users\singhsen\source\repos\Area\Area1\obj\Debug\Area1.pdb

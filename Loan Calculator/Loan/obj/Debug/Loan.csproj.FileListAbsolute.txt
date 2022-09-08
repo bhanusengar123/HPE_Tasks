@@ -1,0 +1,10 @@
+C:\Users\singhsen\source\repos\HPE Assignment\Task2\Loan Calculator\Loan\obj\Debug\Loan.csproj.AssemblyReference.cache
+C:\Users\singhsen\source\repos\HPE Assignment\Task2\Loan Calculator\Loan\obj\Debug\Loan.csproj.CoreCompileInputs.cache
+C:\Users\singhsen\source\repos\HPE Assignment\Task2\Loan Calculator\Loan\bin\Debug\Loan.exe.config
+C:\Users\singhsen\source\repos\HPE Assignment\Task2\Loan Calculator\Loan\bin\Debug\Loan.exe
+C:\Users\singhsen\source\repos\HPE Assignment\Task2\Loan Calculator\Loan\bin\Debug\Loan.pdb
+C:\Users\singhsen\source\repos\HPE Assignment\Task2\Loan Calculator\Loan\bin\Debug\log4net.dll
+C:\Users\singhsen\source\repos\HPE Assignment\Task2\Loan Calculator\Loan\bin\Debug\log4net.xml
+C:\Users\singhsen\source\repos\HPE Assignment\Task2\Loan Calculator\Loan\obj\Debug\Loan.csproj.CopyComplete
+C:\Users\singhsen\source\repos\HPE Assignment\Task2\Loan Calculator\Loan\obj\Debug\Loan.exe
+C:\Users\singhsen\source\repos\HPE Assignment\Task2\Loan Calculator\Loan\obj\Debug\Loan.pdb
